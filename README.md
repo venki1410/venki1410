@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Flutter and have crush on it.
 - 💞️ I’m looking to collaborate on new ideas.
 - 📫 REACH ME : veki14101996@gmail.com
-- 
-- KNOWN TECHNICAL SKILLS
-- 
+
+    KNOWN TECHNICAL SKILLS
+ 
 -   Php
 -   Sql
 -   NoSql
