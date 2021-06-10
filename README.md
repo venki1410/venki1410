@@ -13,6 +13,6 @@
 -   Flutter
 -   NodeJs,ExpressJs
 -   Html,Css,Bootstrap
--   Basic knowledege in IOT (handson on raspberry pi z w)
+-   Basic knowledege in IOT ( handson on raspberry pi z w )
 
 
