@@ -17,5 +17,6 @@
 -   Html,Css,Bootstrap,javascript,AJAX
 -   Basic knowledege in IOT ( handson on raspberry pi z w )
 -   Digital ocean (droplet,app platform,Spaces S3,DNS,functions)
-
+-   UI design (photoshop,Inkscape,figma)
+     
 
