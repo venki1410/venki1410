@@ -10,6 +10,7 @@
 -   Sql
 -   NoSql (mongodb)
 -   Python
+-   Django and flask
 -   Flutter (getx)
 -   NodeJs,ExpressJs
 -   Socket.io
