@@ -5,9 +5,6 @@
 
 
 
-
-<div class="row">
-  <div class="col-md-8" markdown="1">
 **💫 About Me:**
 
 - 🔭 I’m currently working on **My dream project 🤫**
@@ -21,14 +18,6 @@
 - 📫 How to reach me **venki14101996@gmail.com**
 
 - ⚡ Fun fact **iam a lazy programmer**
-
-  </div>
-  <div class="col-md-4" markdown="1">
-  ![Alt Text](https://mindvision.sgp1.digitaloceanspaces.com/bloom-woman-and-man-doing-web-browser-development.png) 
-  <img height="600px" class="center-block" src="../img/folder/blah.jpg">
-  </div>
-</div>
-
 
 
 
