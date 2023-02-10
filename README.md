@@ -33,8 +33,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venki1410&" alt="venki1410" /></p>
 
-<h1 align="center">Hi 👋, I'm Venkat</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venki1410&label=Profile%20views&color=0e75b6&style=flat" alt="venki1410" /> </p>
 
